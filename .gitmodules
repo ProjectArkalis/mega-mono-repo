@@ -1,0 +1,3 @@
+[submodule "arkalis"]
+	path = arkalis
+	url = https://github.com/ProjectArkalis/arkalis.git
