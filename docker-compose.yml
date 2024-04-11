@@ -44,8 +44,7 @@ services:
     environment:
       - AOBA_ARKALIS_URL=${AOBA_ARKALIS_URL}
     volumes:
-      - uploads:/usr/local/bin
+      - ./uploads:/app/uploads
 
 volumes:
   database:
-  uploads:
