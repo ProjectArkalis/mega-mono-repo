@@ -1,3 +1,6 @@
 [submodule "arkalis"]
 	path = arkalis
 	url = https://github.com/ProjectArkalis/arkalis.git
+[submodule "aoba"]
+	path = aoba
+	url = https://github.com/ProjectArkalis/aoba.git
